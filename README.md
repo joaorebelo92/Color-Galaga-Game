@@ -22,5 +22,12 @@ Main features include:
 
 # Screenshots
 
+<img src="screenshots/color-galaga.gif" />
 
+# Code Samples:
 
+* Custom 2D Game Engine (game loop, fps control, etc):  https://github.com/joaorebelo92/Color-Galaga-Game/blob/master/app/src/main/java/com/example/joorebelo/a5244assignment2/GameEngine.java
+
+* Object-oriented Game Sprites: https://github.com/joaorebelo92/Color-Galaga-Game/blob/master/app/src/main/java/com/example/joorebelo/a5244assignment2/Sprite.java
+
+* Custom Game Timers: https://github.com/joaorebelo92/Color-Galaga-Game/blob/master/app/src/main/java/com/example/joorebelo/a5244assignment2/Stopwatch.java
